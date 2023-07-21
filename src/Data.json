@@ -1,0 +1,366 @@
+[
+  {
+    "Id": "0",
+    "image_url": "public/cardImg/carddeck_0001_Ac.jpg",
+    "Suite": "♣",
+    "Value": "A",
+    "Title": "Ace of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0002_2c.jpg",
+    "Suite": "♣",
+    "Value": "2",
+    "Title": "Two of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0003_3c.jpg",
+    "Suite": "♣",
+    "Value": "3",
+    "Title": "Three of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0004_4c.jpg",
+    "Suite": "♣",
+    "Value": "4",
+    "Title": "Four of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0005_5c.jpg",
+    "Suite": "♣",
+    "Value": "5",
+    "Title": "Five of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0006_6c.jpg",
+    "Suite": "♣",
+    "Value": "6",
+    "Title": "Six of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0007_7c.jpg",
+    "Suite": "♣",
+    "Value": "7",
+    "Title": "Seven of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0008_8c.jpg",
+    "Suite": "♣",
+    "Value": "8",
+    "Title": "Eight of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0009_9c.jpg",
+    "Suite": "♣",
+    "Value": "9",
+    "Title": "Nine of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0010_10c.jpg",
+    "Suite": "♣",
+    "Value": "10",
+    "Title": "Ten of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0011_jc.jpg",
+    "Suite": "♣",
+    "Value": "J",
+    "Title": "Jack of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0012_qc.jpg",
+    "Suite": "♣",
+    "Value": "Q",
+    "Title": "Queen of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0013_kc.jpg",
+    "Suite": "♣",
+    "Value": "K",
+    "Title": "King of Clubs"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0014_ah.jpg",
+    "Suite": "♥",
+    "Value": "A",
+    "Title": "Ace of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0015_2h.jpg",
+    "Suite": "♥",
+    "Value": "2",
+    "Title": "Two of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0016_3h.jpg",
+    "Suite": "♥",
+    "Value": "3",
+    "Title": "Three of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0017_4h.jpg",
+    "Suite": "♥",
+    "Value": "4",
+    "Title": "Four of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0018_5h.jpg",
+    "Suite": "♥",
+    "Value": "5",
+    "Title": "Five of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0019_6h.jpg",
+    "Suite": "♥",
+    "Value": "6",
+    "Title": "Six of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0020_7h.jpg",
+    "Suite": "♥",
+    "Value": "7",
+    "Title": "Seven of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0021_8h.jpg",
+    "Suite": "♥",
+    "Value": "8",
+    "Title": "Eight of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0022_9h.jpg",
+    "Suite": "♥",
+    "Value": "9",
+    "Title": "Nine of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0023_10h.jpg",
+    "Suite": "♥",
+    "Value": "10",
+    "Title": "Ten of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0024_jh.jpg",
+    "Suite": "♥",
+    "Value": "J",
+    "Title": "Jack of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0025_qh.jpg",
+    "Suite": "♥",
+    "Value": "Q",
+    "Title": "Queen of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0026_kh.jpg",
+    "Suite": "♥",
+    "Value": "K",
+    "Title": "King of Hearts"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0027_as.jpg",
+    "Suite": "♠",
+    "Value": "A",
+    "Title": "Ace of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0028_2s.jpg",
+    "Suite": "♠",
+    "Value": "2",
+    "Title": "Two of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0029_3s.jpg",
+    "Suite": "♠",
+    "Value": "3",
+    "Title": "Three of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0030_4s.jpg",
+    "Suite": "♠",
+    "Value": "4",
+    "Title": "Four of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0031_5s.jpg",
+    "Suite": "♠",
+    "Value": "5",
+    "Title": "Five of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0032_6s.jpg",
+    "Suite": "♠",
+    "Value": "6",
+    "Title": "Six of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0033_7s.jpg",
+    "Suite": "♠",
+    "Value": "7",
+    "Title": "Seven of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0034_8s.jpg",
+    "Suite": "♠",
+    "Value": "8",
+    "Title": "Eight of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0035_9s.jpg",
+    "Suite": "♠",
+    "Value": "9",
+    "Title": "Nine of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0036_10s.jpg",
+    "Suite": "♠",
+    "Value": "10",
+    "Title": "Ten of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0037_js.jpg",
+    "Suite": "♠",
+    "Value": "J",
+    "Title": "Jack of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0038_qs.jpg",
+    "Suite": "♠",
+    "Value": "Q",
+    "Title": "Queen of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0039_ks.jpg",
+    "Suite": "♠",
+    "Value": "K",
+    "Title": "King of Spades"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0040_ad.jpg",
+    "Suite": "♦",
+    "Value": "A",
+    "Title": "Ace of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0041_2d.jpg",
+    "Suite": "♦",
+    "Value": "2",
+    "Title": "Two of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0042_3d.jpg",
+    "Suite": "♦",
+    "Value": "3",
+    "Title": "Three of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0043_4d.jpg",
+    "Suite": "♦",
+    "Value": "4",
+    "Title": "Four of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0044_5d.jpg",
+    "Suite": "♦",
+    "Value": "5",
+    "Title": "Five of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0045_6d.jpg",
+    "Suite": "♦",
+    "Value": "6",
+    "Title": "Six of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0046_7d.jpg",
+    "Suite": "♦",
+    "Value": "7",
+    "Title": "Seven of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0047_8d.jpg",
+    "Suite": "♦",
+    "Value": "8",
+    "Title": "Eight of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0048_9d.jpg",
+    "Suite": "♦",
+    "Value": "9",
+    "Title": "Nine of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0049_10d.jpg",
+    "Suite": "♦",
+    "Value": "10",
+    "Title": "Ten of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0050_jd.jpg",
+    "Suite": "♦",
+    "Value": "J",
+    "Title": "Jack of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0051_qd.jpg",
+    "Suite": "♦",
+    "Value": "Q",
+    "Title": "Queen of Diamonds"
+  },
+
+  {
+    "image_url": "public/cardImg/carddeck_0052_kd.jpg",
+    "Suite": "♦",
+    "Value": "K",
+    "Title": "King of Diamonds"
+  }
+]
